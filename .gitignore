@@ -1,0 +1,5 @@
+#All of this file ignored by Github;
+
+*.ejs
+style.css
+*.html
